@@ -39,8 +39,8 @@ Advanced AI Model Backdoor Detection Tool for security professionals and ML engi
 ### Recommended Installation (with all dependencies)
 
 ```bash
-git clone https://github.com/SunnyThakur25/backdoor-scanner.git
-cd backdoor-scanner
+git clone https://github.com/SunnyThakur25/AI-backdoor-scanner.git
+
 pip install -r requirements.txt
 ```
 
